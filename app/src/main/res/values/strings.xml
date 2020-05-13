@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="discount_games">Discount Games</string>
+    <string name="store_description">Welcome to discount games! Here you will find the highest discounts on all of your favorite video games, new and old alike! Get up to 99% off. Today\'s special is buy 1 get 5 free!</string>
+    <string name="address_header">Address</string>
+    <string name="address">555–55 38th ST M Discount Games Boulevard, USA</string>
+    <string name="hours_header">Hours</string>
+    <string name="hours">Monday: 12:00 PM to 12:00AM\nTuesday: 12:00 PM to 12:00AM\nWednesday: 12:00 PM to 12:00AM\nThursday: 12:00 PM to 12:00AM\nFriday: 12:00 PM to 12:00AM\nSaturday:12:00 PM to 12:00AM\nSunday: Closed</string>
+    <string name="contact_header">Contact</string>
+    <string name="contact">Phone: 777–7777\nEmail: discount@disc.com\nWebsite: discountgames.com</string>
+    <string name="store">Store</string>
+</resources>
